@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const _1 = require(".");
+const mouse = new _1.Product(1, 'Mouse', 500);
+const laptop = new _1.Product(2, 'Laptop', 15000);
+const monitor = new _1.Product(3, 'Monitor', 3500);
+const cart = new _1.ShoppingCart(new _1.EmailNotificationService);
+const cart2 = new _1.ShoppingCart(new _1.SMSNotificastionService('9211234567'));
+cart.addProduct(mouse, laptop, monitor);
+cart.checkout();
+monitor.applyDiscount(10);
+cart2.addProduct(mouse, monitor);
+cart2.checkout();
