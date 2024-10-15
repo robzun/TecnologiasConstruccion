@@ -1,0 +1,4 @@
+C:\Users\zS22017031\Documents\Scripts\Tecnologías\Bloque 2\Prototype\Jorge\obj\Debug\net8.0\Jorge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zS22017031\Documents\Scripts\Tecnologías\Bloque 2\Prototype\Jorge\obj\Debug\net8.0\Jorge.AssemblyInfoInputs.cache
+C:\Users\zS22017031\Documents\Scripts\Tecnologías\Bloque 2\Prototype\Jorge\obj\Debug\net8.0\Jorge.AssemblyInfo.cs
+C:\Users\zS22017031\Documents\Scripts\Tecnologías\Bloque 2\Prototype\Jorge\obj\Debug\net8.0\Jorge.csproj.CoreCompileInputs.cache
