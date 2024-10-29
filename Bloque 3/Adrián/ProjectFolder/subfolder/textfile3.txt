@@ -1,0 +1,2 @@
+Este es un archivo de texto en un subdirectorio.
+No contiene datos sensibles.
