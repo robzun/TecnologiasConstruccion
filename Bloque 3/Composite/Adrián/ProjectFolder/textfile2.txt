@@ -1,0 +1,3 @@
+Aquí hay otra línea de texto.
+Contiene la palabra clave: password.
+Deberías encontrar datos sensibles.
